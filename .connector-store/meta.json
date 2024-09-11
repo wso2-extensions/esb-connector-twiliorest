@@ -4,7 +4,7 @@
     "category": "Communication",
     "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/TwilioRest+Connector",
     "description": "The TwilioRest connector uses the Twilio REST API to connect to Twilio and work with accounts, calls, messages, and more.",
-    "status": "Active",
+    "status": "Inactive",
     "labels": [
         "connector"
     ],
